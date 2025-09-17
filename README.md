@@ -12,7 +12,7 @@ Elegant and powerful Python framework for creating Amino bots and automation scr
 
 ## ⚡ Installation
 ```bash
-pip install ZAminofix
+pip install ZAmino.fix
 ````
 
 ---
