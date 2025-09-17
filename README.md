@@ -6,7 +6,7 @@ Elegant and powerful Python framework for creating Amino bots and automation scr
 ---
 
 ## 🚀 Quick Navigation
-- [Installation](#-installation) | [Quick Start](#-quick-start) | [Documentation](#-documentation) | [Examples](#-examples) | [Support](#-support) | [Contributing](#-contributing) | [License](#-license)
+- [Installation](#-installation) | [Quick Start](#-quick-start) | [Documentation](#-documentation) | [Examples](#-examples) | [Support](#-support) | [Contributing](#-contributing)
 
 ---
 
